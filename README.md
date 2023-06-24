@@ -15,6 +15,8 @@
 ## 旅游东西准备
    护照 身份证
 
+   地图： 见 交通目录
+
    日本交通卡 ：西瓜卡
 
    APP ： google map, 日本地铁，airbnb(定民宿)
@@ -29,7 +31,7 @@
 
 
 
-## Reference
+## 参考资料
 
 ##### 西瓜卡（Sucia）适用范围
 https://www.zhihu.com/question/36686777
