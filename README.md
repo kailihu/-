@@ -1,12 +1,16 @@
 # 东京攻略
 
 ## 时间
+   8月
 
 ## 旅行范围
 
 东京及周边，镰仓，河口湖（富士山）
 
 ## 准备工作
+   护照 -- 补办
+
+   签证 --淘宝
 
 ## 旅游东西准备
 
@@ -19,8 +23,6 @@
 
 
 ## Reference
-
-https://www.zhihu.com/question/36686777
 
 ### 西瓜卡（Sucia）适用范围
 https://www.zhihu.com/question/36686777
